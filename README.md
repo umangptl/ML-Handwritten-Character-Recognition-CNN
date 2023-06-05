@@ -10,6 +10,6 @@ Convolutional Neural Networks are employed in this project to extract relevant f
 ## Training
 Considering the large dataset size, the model is trained for a single epoch in the current implementation. However, to achieve higher accuracy in character recognition, it is recommended to train the model for multiple epochs. Training the model for longer durations allows it to learn more complex patterns and generalize better.
 
-### Output
+### Image load to recognition Output
 
 <img width="300" alt="GUI picture" src="https://github.com/umangptl/Machine-Learning-Handwritten-Character-Recognition/blob/main/gui.png">
